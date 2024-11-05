@@ -28,8 +28,30 @@ After there is the name of the commit.
 
 ### Task 6
 
+When i switched to the initial commit, the readme file was deleted and the answers.md got reseted. Then when i went back on the last commit, il recreated the readme file and updated the answers.md file
+
 ## Gitgraph
 
 ### Task 7
 
 ![Gitgraph](img/gitgraph.svg)
+
+1. name of the central branch
+
+2. id if the commit
+
+3. message of the commit
+
+4. author of the commit
+
+5. version of the branch
+
+6. Final merge
+
+7. feature_auth branch and commit into the develop branch
+
+8. creation of the feature-auth branch
+
+9. develop branch
+
+10. main branch
